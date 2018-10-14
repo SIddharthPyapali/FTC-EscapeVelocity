@@ -37,7 +37,7 @@ import com.qualcomm.robotcore.util.ElapsedTime;
 
 import org.firstinspires.ftc.robotcontroller.external.samples.HardwarePushbot;
 
-@Autonomous(name="Mission: Sample", group="Pushbot")
+@Autonomous(name="Mission: Sample", group="Linear Opmode")
 //@Disabled
 public class MEncode extends LinearOpMode {
 
