@@ -39,7 +39,7 @@ import org.firstinspires.ftc.robotcontroller.external.samples.HardwarePushbot;
 
 @Autonomous(name="Mission: Sample", group="Pushbot")
 //@Disabled
-public class NewEncode extends LinearOpMode {
+public class MEncode extends LinearOpMode {
 
     /* Declare OpMode members. */
     DcMotor leftMotor, rightMotor;
